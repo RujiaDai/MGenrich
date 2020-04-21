@@ -21,7 +21,7 @@ x<-"" #name of mlist you choose
 
 mger(mlist,clist,n,x)
 
-## Output
+## Output:
 --ptable #pvalue of fisher test 
 --otable #odds ratio
 --ctable #number of overlap genes
