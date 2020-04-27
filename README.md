@@ -14,8 +14,8 @@ This R tool can facilitate the brain-cell marker genes enrichment analysis. It c
 ## Usage：
 source ('MGenrich.r')
 
-mlist<- #marker genes list
-clist<- #tested gene list
+mlist<- #marker genes list \
+clist<- #tested gene list \
 n<-  # number of background genes, such as # of all genes inputted into differential expression analysis or  # of genes profiled in your data... if you don't have such information, please use n=25000 as default. 
 x<-"" #name of mlist you choose
 
