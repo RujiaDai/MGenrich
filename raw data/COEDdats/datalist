@@ -1,0 +1,9 @@
+dataset	species	omics	platform	purification	Brain region	#individual/sample	study
+COEDat1	mouse	transcriptome	RNA-seq	isolated	somatosensory cortex and hippocampal CA1	67/3005	GSE60361
+COEDat2	mouse	transcriptome	RNA-seq	single-cell	frontal cortex	7/194027	GSE116470
+COEDat3	mouse	transcriptome	RNA-seq	single-cell	posterior cortex	5/116437	GSE116470
+COEDat4	human	transcriptome	RNA-seq	single-cell	temporal lobe	8/332	GSE67835
+COEDat5	human	transcriptome	RNA-seq	single-cell	frontal cortex	6/10319	GSE97942
+COEDat6	human	transcriptome	RNA-seq	single-cell	prefrontal cortex	5/5932	Habib et al. 
+COEdat7	human	transcriptome	RNA-seq	single-cell	prefrontal cortex	10/30147	Velmeshev et al.
+COEdat8	human	transcriptome	RNA-seq	single-cell	prefrontal cortex	24/35140	Mathys et al. 
