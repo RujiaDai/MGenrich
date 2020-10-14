@@ -3,7 +3,7 @@ This R tool can facilitate the brain-cell marker genes enrichment analysis. It c
 
 ## The marker gene pool includes:
 1)marker genes from CellMarker database(Zhang et al. 2018) \
-2)commonly-used marker genes from databases, company, and literatures \
+2)commonly-used marker genes from databases, company, and literatures (for both mouse and human brains)\
 3)gold-standard marker genes evaluated by multiple datasets 
 
 ## The corresponding marker genesets are:
